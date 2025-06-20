@@ -1,0 +1,4 @@
+git checkout -b accelerate-with-copilot && git push -u origin accelerate-with-copilot1
+
+# Add student
+activity["participants"].append(email)
